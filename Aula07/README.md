@@ -1,0 +1,1 @@
+- Introduzir os fundamentos de modelagem de tópicos com LDA e realizar uma prática guiada para implementar o modelo em um corpus de notícias, permitindo aos alunos identificar automaticamente tópicos em textos extensos.
